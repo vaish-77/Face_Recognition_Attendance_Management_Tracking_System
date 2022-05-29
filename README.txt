@@ -14,3 +14,6 @@ face-recognition,
 open-cv-contrib-python, 
 numpy == 1.22.4, 
 pillow == 9.1.1
+
+
+To Run the project, clone the repository and run the main.py file.
